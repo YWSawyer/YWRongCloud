@@ -1,0 +1,3 @@
+# YWRongCloud
+本项目基于融云即时通讯SDK，其中区别于原项目处为RongCloudCallKit开源部分，并且RongCloudIMLib、RongCloudIMKit、RongCloudCallLib
+通过cocoapods管理，原项目是直接将sdk拖到项目。
